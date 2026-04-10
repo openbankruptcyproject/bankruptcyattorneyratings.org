@@ -456,7 +456,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <!-- THE TOOL -->
 <div class="tool-container" id="tool">
   <h2>District Bankruptcy Benchmarks</h2>
-  <p class="tool-subtitle">Select your federal judicial district to see Chapter 7 and Chapter 13 outcome benchmarks. No personal data is collected.</p>
+  <p class="tool-subtitle">Select your federal judicial district to see <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> outcome benchmarks. No personal data is collected.</p>
 
   <label for="district-select" style="color:var(--text-muted);font-size:0.85rem;display:block;margin-bottom:0.5rem">Select your federal district:</label>
   <select id="district-select" class="district-select" aria-label="Select federal judicial district">
@@ -473,12 +473,12 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="stat-grid">
         <div class="stat-card">
           <div class="stat-value" id="ch13-dismiss" style="color:var(--red)">--</div>
-          <div class="stat-label">Dismissal Rate</div>
+          <div class="stat-label"><a href="https://dismissalrate.org/" title="dismissal rate">Dismissal Rate</a></div>
           <div class="stat-compare" id="ch13-dismiss-compare"></div>
         </div>
         <div class="stat-card">
           <div class="stat-value" id="ch13-discharge" style="color:var(--green)">--</div>
-          <div class="stat-label">Discharge Rate</div>
+          <div class="stat-label"><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> Rate</div>
           <div class="stat-compare" id="ch13-discharge-compare"></div>
         </div>
         <div class="stat-card">
@@ -488,7 +488,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
       </div>
       <div style="margin:1rem 0">
-        <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:0.25rem"><strong style="color:var(--text)">Ch. 13 Dismissal Rate vs. National Average (46.6%)</strong></p>
+        <p style="font-size:0.85rem;color:var(--text-muted);margin-bottom:0.25rem"><strong style="color:var(--text)">Ch. 13 <a href="https://dismissedbankruptcy.org/" title="dismissal">Dismissal</a> Rate vs. National Average (46.6%)</strong></p>
         <div class="bar-container">
           <div class="bar-fill" id="ch13-bar" style="width:0;background:var(--red)"></div>
           <div class="bar-marker" id="ch13-nat-marker" style="left:46.6%" title="National average: 46.6%"></div>
@@ -535,7 +535,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <div class="stat-grid" style="grid-template-columns:repeat(auto-fit,minmax(180px,1fr))">
         <div class="stat-card">
           <div class="stat-value" id="prose-rate" style="color:var(--yellow)">--</div>
-          <div class="stat-label">Pro Se Rate</div>
+          <div class="stat-label"><a href="https://prosebankruptcy.org/" title="pro se">Pro Se</a> Rate</div>
           <div class="stat-compare" id="prose-compare"></div>
         </div>
         <div class="stat-card">
@@ -596,13 +596,13 @@ document.addEventListener('DOMContentLoaded', function() {
   <p>Chapter 7 cases rarely get dismissed (national average: 2.1%). When they are, it is typically for failure to file required documents, failure to pay filing fees, or abuse of the bankruptcy system. An attorney with a high Chapter 7 dismissal rate relative to the district average is a serious red flag.</p>
 
   <h3>What the pro se rate tells you</h3>
-  <p>The pro se (self-represented) filing rate indicates what percentage of bankruptcy filings in a district are made without an attorney. A high pro se rate can signal:</p>
+  <p>The pro se (self-represented) filing rate indicates what percentage of bankruptcy filings in a district are made <a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">without an attorney</a>. A high pro se rate can signal:</p>
   <ul>
     <li><strong>Attorney desert:</strong> Affordable bankruptcy representation may be scarce in the area</li>
     <li><strong>Fee concerns:</strong> Attorneys in the district may be charging fees that many debtors cannot afford</li>
     <li><strong>Access to justice issues:</strong> Legal aid and pro bono resources may be limited</li>
   </ul>
-  <p>Pro se Chapter 13 cases have extremely high dismissal rates because the repayment plan process requires technical legal knowledge. If you are in a high pro se district, finding an affordable attorney is especially important.</p>
+  <p>Pro se Chapter 13 cases have extremely high dismissal rates because the <a href="https://chapter13plan.org/" title="Chapter 13 plan">repayment plan</a> process requires technical legal knowledge. If you are in a high pro se district, finding an affordable attorney is especially important.</p>
 
   <h3>Limitations of this data</h3>
   <div class="yellow-box">
@@ -653,7 +653,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 
 <div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
-<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.</p>
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> access fees and bankruptcy court transparency research.</p>
 <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
 </div>
 
