@@ -6,8 +6,397 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
+## Check Your District: Bankruptcy Attorney Quality Benchmarks by Federal District [2026]
+Source: https://bankruptcyattorneyratings.org/check-your-district.html
+
+bankruptcyattorneyratings.org
+☰
+
+Home
+Check Your District
+Red Flags
+Research
+Fee Structures
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Check Your District
+
+Free, data-driven bankruptcy benchmarks for every federal district. See how outcomes in your court compare to national averages - and know what to watch for.
+
+Built from 4.9 million federal bankruptcy cases | 94 districts analyzed
+
+Home›Attorney Ratings›Check Your District
+
+District Bankruptcy Benchmarks
+
+Select your federal judicial district to see Chapter 7 and Chapter 13 outcome benchmarks. No personal data is collected.
+
+Select your federal district:
+
+-- Choose a district --
+
+Chapter 13 Outcomes
+
+--
+
+Dismissal Rate
+
+--
+
+Discharge Rate
+
+--
+
+Total Cases Tracked
+
+Ch. 13 Dismissal Rate vs. National Average (46.6%)
+
+0%Your district100%
+
+Chapter 7 Outcomes
+
+--
+
+Dismissal Rate
+
+--
+
+Discharge Rate
+
+--
+
+Total Cases Tracked
+
+Ch. 7 Dismissal Rate vs. National Average (2.1%)
+
+0%Your district20%
+
+Pro Se Filing Rate
+
+--
+
+Pro Se Rate
+
+--
+
+Pro Se Cases
+
+Red Flag Thresholds for This District
+
+How to Research Your Attorney
+
+Now that you know your district's benchmarks, here is how to evaluate a specific attorney:
+
+PACER - Case Search
+
+Search any attorney's federal case history. $0.10/page, quarterly fee cap of $30.
+
+How to Research a Bankruptcy Attorney
+
+Step-by-step guide to evaluating attorneys using public records.
+
+1328(f) Discharge Screener
+
+Free tool to check if you are eligible for a bankruptcy discharge.
+
+Red Flags When Choosing
+
+Warning signs that your attorney may not be providing quality representation.
+
+State bar lookup: Every state bar association maintains a free, public directory where you can verify an attorney's license status and check for disciplinary history. Search "[your state] bar association attorney lookup" to find it.
+
+Understanding These Numbers
+
+What is a dismissal rate?
+
+The dismissal rate measures the percentage of filed cases that are terminated without the debtor receiving a discharge. A dismissed case means the debtor went through the process - paying attorney fees and filing fees - but did not get the debt relief they sought.
+
+Why Chapter 13 dismissal rates are much higher
+
+Chapter 13 requires debtors to make monthly plan payments for 3-5 years. Many cases are dismissed because debtors cannot sustain those payments. Nationally, about 46.6% of Chapter 13 cases with recorded dispositions are dismissed. This is a known structural challenge, not necessarily a sign of poor representation.
+
+However, an attorney whose Chapter 13 dismissal rate is significantly higher than the district average may be filing cases that are unlikely to succeed, or may not be providing adequate support during the plan period.
+
+Chapter 7 dismissals are rare - and meaningful
+
+Chapter 7 cases rarely get dismissed (national average: 2.1%). When they are, it is typically for failure to file required documents, failure to pay filing fees, or abuse of the bankruptcy system. An attorney with a high Chapter 7 dismissal rate relative to the district average is a serious red flag.
+
+What the pro se rate tells you
+
+The pro se (self-represented) filing rate indicates what percentage of bankruptcy filings in a district are made without an attorney. A high pro se rate can signal:
+
+Attorney desert: Affordable bankruptcy representation may be scarce in the area
+
+Fee concerns: Attorneys in the district may be charging fees that many debtors cannot afford
+
+Access to justice issues: Legal aid and pro bono resources may be limited
+
+Pro se Chapter 13 cases have extremely high dismissal rates because the repayment plan process requires technical legal knowledge. If you are in a high pro se district, finding an affordable attorney is especially important.
+
+Limitations of this data
+
+Important: This tool shows district-level benchmarks, not individual attorney performance. An attorney's personal dismissal rate may differ substantially from the district average. These benchmarks give you a baseline for comparison - not a verdict on any specific attorney.
+
+Data is sourced from the Federal Judicial Center's Integrated Database, covering cases filed through 2024. Not all districts have equal coverage in our database. Districts with fewer than 50 tracked cases may show less reliable percentages.
+
+Frequently Asked Questions
+
+What is a normal Chapter 13 dismissal rate?
+
+Nationally, about 46.6% of Chapter 13 cases with a recorded disposition are dismissed. However, this varies dramatically by district - from under 20% to over 60%. A dismissal rate significantly above your district's average may indicate a quality concern.
+
+What does a high pro se filing rate mean?
+
+A high pro se (self-represented) filing rate in a district can indicate an "attorney desert" - a region where affordable bankruptcy representation is scarce. In such districts, it becomes even more important to carefully evaluate any attorney you do find.
+
+How can I check my bankruptcy attorney's dismissal rate?
+
+You can search PACER (Public Access to Court Electronic Records) for your attorney's name and review their case outcomes. Look at the ratio of dismissed cases to discharged cases. Compare that ratio to your district's average shown in this tool. For a detailed how-to, see our research guide.
+
+What is the difference between dismissal and discharge?
+
+A discharge is the successful outcome - your eligible debts are eliminated. A dismissal means the case was terminated without completing the process. Common reasons include failure to make plan payments, failure to file required documents, or abuse of the bankruptcy system. You paid for legal help but did not get the relief you sought.
+
+Related Topics
+
+Dismissal Rate Statistics
+1328(f) Discharge Screener
+Affordable Legal Help
+Filing Without a Lawyer
+Chapter 7 vs Chapter 13
+How Much Does It Cost?
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Check Your District
+Red Flags
+Questions to Ask
+How to Research
+What to Expect
+Online Reviews
+Fee Structures
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Bankruptcy Attorney Fee Structures
+Source: https://bankruptcyattorneyratings.org/fee-structures.html
+
+bankruptcyattorneyratings.org
+☰
+
+Home
+Red Flags When Choosing
+Questions to Ask a
+How to Research a
+What to Expect from
+Understanding Online Bankruptcy Attorney
+Bankruptcy Attorney Fee Structures
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Bankruptcy Attorney Fee Structures Explained
+
+Home›Bankruptcy Attorney Fee Structures Explained | bankruptcyattorneyratings.org›Bankruptcy Attorney Fee Structures Explained
+
+Understanding how bankruptcy attorneys charge
+
+Bankruptcy attorney fees vary widely by location, case complexity, and chapter. Understanding fee structures helps you evaluate whether a fee is reasonable.
+
+Chapter 7 fees
+
+Chapter 7 attorney fees typically range from $1,000 to $3,500, depending on your location and case complexity. Most attorneys charge a flat fee that covers the entire case from filing through discharge. The court filing fee is currently $338 (as of 2024), which is separate from the attorney fee.
+
+Chapter 13 fees
+
+Chapter 13 fees are generally higher, typically $3,000 to $6,000, because the case lasts 3-5 years and involves a repayment plan. Many districts have a "no-look" fee - a presumptively reasonable amount the court approves without detailed review. Chapter 13 attorneys often accept partial payment upfront with the balance paid through the plan.
+
+What should be included
+
+Initial consultation and financial analysis
+
+Preparation of all petition documents (schedules, statements, means test)
+
+Filing with the court
+
+Attendance at the 341 meeting of creditors
+
+Handling routine trustee requests
+
+Monitoring the case through discharge
+
+What may cost extra
+
+Adversary proceedings (lawsuits within the bankruptcy)
+
+Motions to avoid liens
+
+Reaffirmation agreements
+
+Plan modifications in Chapter 13
+
+Motions for relief from stay defense
+
+Fee disclosure is required: Under 11 U.S.C. Section 329 and Bankruptcy Rule 2016, attorneys must disclose all compensation received or agreed to in connection with a bankruptcy case. The court can order disgorgement of excessive fees.
+
+Fee waivers available: If your income is below 150% of the federal poverty level, you may qualify for a waiver of the court filing fee. Ask the clerk's office about filing fee waivers under 28 U.S.C. Section 1930(f).
+
+← Back to bankruptcyattorneyratings.org
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Red Flags When Choosing
+Questions to Ask a
+How to Research a
+What to Expect from
+Understanding Online Bankruptcy Attorney
+Bankruptcy Attorney Fee Structures
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## How to Research a Bankruptcy Attorney
+Source: https://bankruptcyattorneyratings.org/how-to-research.html
+
+bankruptcyattorneyratings.org
+☰
+
+Home
+Red Flags When Choosing
+Questions to Ask a
+How to Research a
+What to Expect from
+Understanding Online Bankruptcy Attorney
+Bankruptcy Attorney Fee Structures
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+How to Research a Bankruptcy Attorney
+
+Home›How to Research a Bankruptcy Attorney | bankruptcyattorneyratings.org›How to Research a Bankruptcy Attorney
+
+Where to look and what to check
+
+Before hiring a bankruptcy attorney, take time to verify their credentials and reputation. Here are reliable sources of information.
+
+State bar association
+
+Every attorney must be licensed in the state where they practice. Your state bar's website lets you verify that an attorney is in good standing and check for any disciplinary history. This is the single most important check you can do.
+
+PACER - federal court records
+
+The Public Access to Court Electronic Records (PACER) system at pacer.uscourts.gov contains every federal bankruptcy filing. You can search for cases handled by a specific attorney to see their actual caseload and outcomes.
+
+Online reviews
+
+Review sites can provide useful data points, but approach them with caution:
+
+Look for patterns - A single negative review may be an outlier. Multiple similar complaints suggest a real issue
+
+Read the details - Specific complaints about communication or missed deadlines are more informative than vague praise
+
+Consider the source - Some review platforms verify that reviewers were actual clients; others do not
+
+Check multiple platforms - Do not rely on a single source
+
+Local bankruptcy court clerk
+
+Your local bankruptcy court clerk's office can tell you if an attorney regularly practices in that court. Attorneys who appear frequently before local judges understand local rules and procedures.
+
+Free resources: Many bar associations offer lawyer referral services. Legal aid organizations may provide free consultations. The American Bar Association maintains a free legal help directory.
+
+← Back to bankruptcyattorneyratings.org
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Red Flags When Choosing
+Questions to Ask a
+How to Research a
+What to Expect from
+Understanding Online Bankruptcy Attorney
+Bankruptcy Attorney Fee Structures
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
 ## How to Evaluate Bankruptcy Attorney Reviews [2026 Guide]
 Source: https://bankruptcyattorneyratings.org/
+
+Skip to main content
 
 bankruptcyattorneyratings.org
 ☰
@@ -21,9 +410,9 @@ What to Expect from
 Understanding Online Bankruptcy Attorney
 Bankruptcy Attorney Fee Structures
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Attorneyratings Bankruptcy -- Your Complete Filing Guide for 2026
+Attorneyratings Bankruptcy - Your Complete Filing Guide for 2026
 
 How to evaluate bankruptcy lawyers before hiring. What to look for in reviews, red flags to watch for, and questions every debtor should ask before signing a retainer agreement.
 
@@ -84,7 +473,7 @@ Look for patterns across multiple review platforms rather than relying on any si
 
 What are red flags when choosing a bankruptcy attorney?
 
-Red flags include pressure to sign immediately, unusually low fees with unclear terms, guaranteed outcomes, never speaking directly with the attorney, no review of your financial documents before recommending a chapter, and lack of a written fee agreement. One of the most reliable objective indicators is an attorney's case dismissal rate -- attorneys whose cases are dismissed at rates far above the court average may not be providing adequate representation.
+Red flags include pressure to sign immediately, unusually low fees with unclear terms, guaranteed outcomes, never speaking directly with the attorney, no review of your financial documents before recommending a chapter, and lack of a written fee agreement. One of the most reliable objective indicators is an attorney's case dismissal rate - attorneys whose cases are dismissed at rates far above the court average may not be providing adequate representation.
 
 How much should a bankruptcy attorney cost?
 
@@ -113,7 +502,7 @@ This site is free and open-source. Donations support the Open Bankruptcy Project
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -172,6 +561,10 @@ No attorney-client relationship is created by using this site. Consult a license
 Last updated: April 2026
 
 Privacy | Terms | Open Bankruptcy Project
+
+Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -255,8 +648,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Red Flags When Choosing a Bankruptcy Attorney
-Source: https://bankruptcyattorneyratings.org/red-flags.html
+## Understanding Online Bankruptcy Attorney Reviews
+Source: https://bankruptcyattorneyratings.org/online-reviews.html
 
 bankruptcyattorneyratings.org
 ☰
@@ -269,45 +662,37 @@ What to Expect from
 Understanding Online Bankruptcy Attorney
 Bankruptcy Attorney Fee Structures
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Red Flags When Choosing a Bankruptcy Attorney
+Understanding Online Attorney Reviews
 
-Warning signs that a bankruptcy attorney may not serve you well
+Home›Understanding Online Bankruptcy Attorney Reviews | bankruptcyattorneyratings.org›Understanding Online Attorney Reviews
 
-Not all bankruptcy attorneys provide the same level of service. Some warning signs can help you identify potential problems before you sign a retainer agreement.
+How to read bankruptcy attorney reviews critically
 
-Communication red flags
+Online reviews can be a useful research tool, but they require critical reading. Not all reviews are equally reliable or informative.
 
-You never speak to the attorney -- If your initial consultation is with a paralegal or salesperson rather than the attorney who will handle your case, that is worth noting
+What reviews can tell you
 
-Unreturned calls or emails -- Attorneys have ethical obligations to keep clients reasonably informed under Model Rule 1.4
+Communication patterns - Repeated complaints about unreturned calls suggest a real issue
 
-Pressure to sign immediately -- A reputable attorney will give you time to make an informed decision
+Staff vs. attorney interaction - Reviews often reveal whether clients actually interact with the attorney
 
-Vague answers to specific questions -- If they cannot clearly explain the process, that is concerning
+Office organization - Lost documents, missed deadlines, and scheduling problems appear frequently in reviews of problematic firms
 
-Fee red flags
+Billing surprises - Unexpected charges or fee disputes are commonly mentioned
 
-Fees far below market rate -- While affordable representation exists, unusually low fees may indicate high-volume practices that sacrifice individual attention
+Limitations of online reviews
 
-Unclear fee structure -- You should receive a written fee agreement that spells out exactly what is covered
+Selection bias - People with extreme experiences (very positive or very negative) are more likely to leave reviews
 
-Large upfront payments with no written agreement -- Always get the fee arrangement in writing
+Outcome confusion - Some negative reviews reflect frustration with bankruptcy law itself, not the attorney's performance
 
-No mention of court filing fees -- The filing fee is separate from attorney fees and should be disclosed upfront
+Fake reviews - Both positive and negative reviews can be fabricated. Look for specific details that suggest real experience
 
-Important: These are general indicators, not definitive proof of poor service. Many excellent attorneys may exhibit one or two of these traits for legitimate reasons. Use your judgment and consider the full picture.
+Time lag - An attorney's practice may have changed significantly since older reviews were posted
 
-Practice red flags
-
-No review of your financial documents -- A thorough attorney will review your income, expenses, assets, and debts before recommending a chapter
-
-Guaranteed outcomes -- No attorney can guarantee a discharge. Bankruptcy outcomes depend on many factors
-
-No explanation of alternatives -- A good attorney discusses whether bankruptcy is truly the best option for your situation
-
-Filing before completing credit counseling -- Pre-filing credit counseling is required under 11 U.S.C. Section 109(h)
+What really matters: Reviews are one data point. Combine them with state bar records, PACER case data, personal consultations, and referrals from trusted sources for a complete picture.
 
 ← Back to bankruptcyattorneyratings.org
 
@@ -367,9 +752,11 @@ What to Expect from
 Understanding Online Bankruptcy Attorney
 Bankruptcy Attorney Fee Structures
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Questions to Ask Before Hiring
+
+Home›Questions to Ask a Bankruptcy Attorney Before Hiring | bankruptcyattorneyratings.org›Questions to Ask Before Hiring
 
 Essential questions for your bankruptcy consultation
 
@@ -407,11 +794,11 @@ Are there any additional costs I should expect (filing fees, credit counseling, 
 
 Do you offer payment plans?
 
-How will you communicate with me -- phone, email, portal?
+How will you communicate with me - phone, email, portal?
 
 How quickly do you typically respond to client questions?
 
-Tip: Take notes during your consultation. A good attorney will welcome your questions and provide clear, honest answers -- including telling you things you may not want to hear.
+Tip: Take notes during your consultation. A good attorney will welcome your questions and provide clear, honest answers - including telling you things you may not want to hear.
 
 ← Back to bankruptcyattorneyratings.org
 
@@ -457,8 +844,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How to Research a Bankruptcy Attorney
-Source: https://bankruptcyattorneyratings.org/how-to-research.html
+## Red Flags When Choosing a Bankruptcy Attorney
+Source: https://bankruptcyattorneyratings.org/red-flags.html
 
 bankruptcyattorneyratings.org
 ☰
@@ -471,39 +858,47 @@ What to Expect from
 Understanding Online Bankruptcy Attorney
 Bankruptcy Attorney Fee Structures
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-How to Research a Bankruptcy Attorney
+Red Flags When Choosing a Bankruptcy Attorney
 
-Where to look and what to check
+Home›Red Flags When Choosing a Bankruptcy Attorney | bankruptcyattorneyratings.org›Red Flags When Choosing a Bankruptcy Attorney
 
-Before hiring a bankruptcy attorney, take time to verify their credentials and reputation. Here are reliable sources of information.
+Warning signs that a bankruptcy attorney may not serve you well
 
-State bar association
+Not all bankruptcy attorneys provide the same level of service. Some warning signs can help you identify potential problems before you sign a retainer agreement.
 
-Every attorney must be licensed in the state where they practice. Your state bar's website lets you verify that an attorney is in good standing and check for any disciplinary history. This is the single most important check you can do.
+Communication red flags
 
-PACER -- federal court records
+You never speak to the attorney - If your initial consultation is with a paralegal or salesperson rather than the attorney who will handle your case, that is worth noting
 
-The Public Access to Court Electronic Records (PACER) system at pacer.uscourts.gov contains every federal bankruptcy filing. You can search for cases handled by a specific attorney to see their actual caseload and outcomes.
+Unreturned calls or emails - Attorneys have ethical obligations to keep clients reasonably informed under Model Rule 1.4
 
-Online reviews
+Pressure to sign immediately - A reputable attorney will give you time to make an informed decision
 
-Review sites can provide useful data points, but approach them with caution:
+Vague answers to specific questions - If they cannot clearly explain the process, that is concerning
 
-Look for patterns -- A single negative review may be an outlier. Multiple similar complaints suggest a real issue
+Fee red flags
 
-Read the details -- Specific complaints about communication or missed deadlines are more informative than vague praise
+Fees far below market rate - While affordable representation exists, unusually low fees may indicate high-volume practices that sacrifice individual attention
 
-Consider the source -- Some review platforms verify that reviewers were actual clients; others do not
+Unclear fee structure - You should receive a written fee agreement that spells out exactly what is covered
 
-Check multiple platforms -- Do not rely on a single source
+Large upfront payments with no written agreement - Always get the fee arrangement in writing
 
-Local bankruptcy court clerk
+No mention of court filing fees - The filing fee is separate from attorney fees and should be disclosed upfront
 
-Your local bankruptcy court clerk's office can tell you if an attorney regularly practices in that court. Attorneys who appear frequently before local judges understand local rules and procedures.
+Important: These are general indicators, not definitive proof of poor service. Many excellent attorneys may exhibit one or two of these traits for legitimate reasons. Use your judgment and consider the full picture.
 
-Free resources: Many bar associations offer lawyer referral services. Legal aid organizations may provide free consultations. The American Bar Association maintains a free legal help directory.
+Practice red flags
+
+No review of your financial documents - A thorough attorney will review your income, expenses, assets, and debts before recommending a chapter
+
+Guaranteed outcomes - No attorney can guarantee a discharge. Bankruptcy outcomes depend on many factors
+
+No explanation of alternatives - A good attorney discusses whether bankruptcy is truly the best option for your situation
+
+Filing before completing credit counseling - Pre-filing credit counseling is required under 11 U.S.C. Section 109(h)
 
 ← Back to bankruptcyattorneyratings.org
 
@@ -563,9 +958,11 @@ What to Expect from
 Understanding Online Bankruptcy Attorney
 Bankruptcy Attorney Fee Structures
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 What to Expect from Your Bankruptcy Attorney
+
+Home›What to Expect from Your Bankruptcy Attorney | bankruptcyattorneyratings.org›What to Expect from Your Bankruptcy Attorney
 
 Reasonable expectations for the attorney-client relationship
 
@@ -573,123 +970,35 @@ Understanding what your attorney should be doing helps you evaluate the represen
 
 Before filing
 
-Thorough financial review -- Your attorney should review all income, expenses, assets, debts, and recent transactions
+Thorough financial review - Your attorney should review all income, expenses, assets, debts, and recent transactions
 
-Means test analysis -- For Chapter 7 filers, the attorney should run the means test and explain the results
+Means test analysis - For Chapter 7 filers, the attorney should run the means test and explain the results
 
-Exemption planning -- Discussion of which assets are protected under your state's exemption laws
+Exemption planning - Discussion of which assets are protected under your state's exemption laws
 
-Written fee agreement -- A clear, written agreement specifying fees, scope of representation, and what is not included
+Written fee agreement - A clear, written agreement specifying fees, scope of representation, and what is not included
 
-Credit counseling guidance -- Direction on completing the required pre-filing credit counseling under Section 109(h)
+Credit counseling guidance - Direction on completing the required pre-filing credit counseling under Section 109(h)
 
 During the case
 
-Accurate petition preparation -- Schedules and statements that accurately reflect your financial situation
+Accurate petition preparation - Schedules and statements that accurately reflect your financial situation
 
-341 meeting preparation -- Explanation of what to expect and what questions the trustee may ask
+341 meeting preparation - Explanation of what to expect and what questions the trustee may ask
 
-Timely responses -- Responding to trustee requests and court orders within required deadlines
+Timely responses - Responding to trustee requests and court orders within required deadlines
 
-Regular communication -- Keeping you informed of case developments
+Regular communication - Keeping you informed of case developments
 
-Document filings -- Filing all required documents (tax returns, pay stubs, financial management course certificate)
+Document filings - Filing all required documents (tax returns, pay stubs, financial management course certificate)
 
 After discharge
 
-Discharge explanation -- What debts were discharged and what obligations remain
+Discharge explanation - What debts were discharged and what obligations remain
 
-Guidance on rebuilding -- Basic information about rebuilding credit after bankruptcy
+Guidance on rebuilding - Basic information about rebuilding credit after bankruptcy
 
-Model Rules of Professional Conduct: Attorneys are bound by ethical rules requiring competence (Rule 1.1), diligence (Rule 1.3), communication (Rule 1.4), and reasonable fees (Rule 1.5). These are not suggestions -- they are mandatory obligations.
-
-← Back to bankruptcyattorneyratings.org
-
-Related Topics
-
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Red Flags When Choosing
-Questions to Ask a
-How to Research a
-What to Expect from
-Understanding Online Bankruptcy Attorney
-Bankruptcy Attorney Fee Structures
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## Understanding Online Bankruptcy Attorney Reviews
-Source: https://bankruptcyattorneyratings.org/online-reviews.html
-
-bankruptcyattorneyratings.org
-☰
-
-Home
-Red Flags When Choosing
-Questions to Ask a
-How to Research a
-What to Expect from
-Understanding Online Bankruptcy Attorney
-Bankruptcy Attorney Fee Structures
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Understanding Online Attorney Reviews
-
-How to read bankruptcy attorney reviews critically
-
-Online reviews can be a useful research tool, but they require critical reading. Not all reviews are equally reliable or informative.
-
-What reviews can tell you
-
-Communication patterns -- Repeated complaints about unreturned calls suggest a real issue
-
-Staff vs. attorney interaction -- Reviews often reveal whether clients actually interact with the attorney
-
-Office organization -- Lost documents, missed deadlines, and scheduling problems appear frequently in reviews of problematic firms
-
-Billing surprises -- Unexpected charges or fee disputes are commonly mentioned
-
-Limitations of online reviews
-
-Selection bias -- People with extreme experiences (very positive or very negative) are more likely to leave reviews
-
-Outcome confusion -- Some negative reviews reflect frustration with bankruptcy law itself, not the attorney's performance
-
-Fake reviews -- Both positive and negative reviews can be fabricated. Look for specific details that suggest real experience
-
-Time lag -- An attorney's practice may have changed significantly since older reviews were posted
-
-What really matters: Reviews are one data point. Combine them with state bar records, PACER case data, personal consultations, and referrals from trusted sources for a complete picture.
+Model Rules of Professional Conduct: Attorneys are bound by ethical rules requiring competence (Rule 1.1), diligence (Rule 1.3), communication (Rule 1.4), and reasonable fees (Rule 1.5). These are not suggestions - they are mandatory obligations.
 
 ← Back to bankruptcyattorneyratings.org
 
@@ -735,289 +1044,72 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Bankruptcy Attorney Fee Structures
-Source: https://bankruptcyattorneyratings.org/fee-structures.html
+## Privacy Policy - bankruptcyattorneyratings.org
+Source: https://bankruptcyattorneyratings.org/privacy.html
 
 bankruptcyattorneyratings.org
-☰
 
 Home
-Red Flags When Choosing
-Questions to Ask a
-How to Research a
-What to Expect from
-Understanding Online Bankruptcy Attorney
-Bankruptcy Attorney Fee Structures
+Privacy
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Privacy Policy
 
-Bankruptcy Attorney Fee Structures Explained
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Understanding how bankruptcy attorneys charge
+Data We Collect
 
-Bankruptcy attorney fees vary widely by location, case complexity, and chapter. Understanding fee structures helps you evaluate whether a fee is reasonable.
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-Chapter 7 fees
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Chapter 7 attorney fees typically range from $1,000 to $3,500, depending on your location and case complexity. Most attorneys charge a flat fee that covers the entire case from filing through discharge. The court filing fee is currently $338 (as of 2024), which is separate from the attorney fee.
+What We Don't Do
 
-Chapter 13 fees
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-Chapter 13 fees are generally higher, typically $3,000 to $6,000, because the case lasts 3-5 years and involves a repayment plan. Many districts have a "no-look" fee -- a presumptively reasonable amount the court approves without detailed review. Chapter 13 attorneys often accept partial payment upfront with the balance paid through the plan.
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-What should be included
+Cookies
 
-Initial consultation and financial analysis
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-Preparation of all petition documents (schedules, statements, means test)
+Third-Party Services
 
-Filing with the court
+Google Analytics (GA4) - aggregate traffic measurement
 
-Attendance at the 341 meeting of creditors
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Handling routine trustee requests
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-Monitoring the case through discharge
+GitHub Pages - hosting
 
-What may cost extra
+Contact Forms & Email
 
-Adversary proceedings (lawsuits within the bankruptcy)
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Motions to avoid liens
+Children's Privacy
 
-Reaffirmation agreements
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-Plan modifications in Chapter 13
+Data Retention
 
-Motions for Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">Automatic Stay -- Open Bankruptcy Project" target="_blank" rel="noopener">relief from stay defense
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Fee disclosure is required: Under 11 U.S.C. Section 329 and Bankruptcy Rule 2016, attorneys must disclose all compensation received or agreed to in connection with a bankruptcy case. The court can order disgorgement of excessive fees.
+Your Rights
 
-Fee waivers available: If your income is below 150% of the federal poverty level, you may qualify for a waiver of the court filing fee. Ask the clerk's office about filing fee waivers under 28 U.S.C. Section 1930(f).
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-← Back to bankruptcyattorneyratings.org
+Network Policy
 
-Related Topics
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
+Changes
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-♥ Sponsor
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Home
-Red Flags When Choosing
-Questions to Ask a
-How to Research a
-What to Expect from
-Understanding Online Bankruptcy Attorney
-Bankruptcy Attorney Fee Structures
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## Check Your District: Bankruptcy Attorney Quality Benchmarks by Federal District [2026]
-Source: https://bankruptcyattorneyratings.org/check-your-district.html
-
-bankruptcyattorneyratings.org
-☰
-
-Home
-Check Your District
-Red Flags
-Research
-Fee Structures
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Check Your District
-
-Free, data-driven bankruptcy benchmarks for every federal district. See how outcomes in your court compare to national averages -- and know what to watch for.
-
-Built from 4.9 million federal bankruptcy cases | 94 districts analyzed
-
-District Bankruptcy Benchmarks
-
-Select your federal judicial district to see Chapter 7 and Chapter 13 outcome benchmarks. No personal data is collected.
-
-Select your federal district:
-
--- Choose a district --
-
-Chapter 13 Outcomes
-
---
-
-Dismissal Rate
-
---
-
-Discharge Rate
-
---
-
-Total Cases Tracked
-
-Ch. 13 Dismissal Rate vs. National Average (46.6%)
-
-0%Your district100%
-
-Chapter 7 Outcomes
-
---
-
-Dismissal Rate
-
---
-
-Discharge Rate
-
---
-
-Total Cases Tracked
-
-Ch. 7 Dismissal Rate vs. National Average (2.1%)
-
-0%Your district20%
-
-Pro Se Filing Rate
-
---
-
-Pro Se Rate
-
---
-
-Pro Se Cases
-
-Red Flag Thresholds for This District
-
-How to Research Your Attorney
-
-Now that you know your district's benchmarks, here is how to evaluate a specific attorney:
-
-PACER -- Case Search
-
-Search any attorney's federal case history. $0.10/page, quarterly fee cap of $30.
-
-How to Research a Bankruptcy Attorney
-
-Step-by-step guide to evaluating attorneys using public records.
-
-1328(f) Discharge Screener
-
-Free tool to check if you are eligible for a bankruptcy discharge.
-
-Red Flags When Choosing
-
-Warning signs that your attorney may not be providing quality representation.
-
-State bar lookup: Every state bar association maintains a free, public directory where you can verify an attorney's license status and check for disciplinary history. Search "[your state] bar association attorney lookup" to find it.
-
-Understanding These Numbers
-
-What is a dismissal rate?
-
-The dismissal rate measures the percentage of filed cases that are terminated without the debtor receiving a discharge. A dismissed case means the debtor went through the process -- paying attorney fees and filing fees -- but did not get the debt relief they sought.
-
-Why Chapter 13 dismissal rates are much higher
-
-Chapter 13 requires debtors to make monthly plan payments for 3-5 years. Many cases are dismissed because debtors cannot sustain those payments. Nationally, about 46.6% of Chapter 13 cases with recorded dispositions are dismissed. This is a known structural challenge, not necessarily a sign of poor representation.
-
-However, an attorney whose Chapter 13 dismissal rate is significantly higher than the district average may be filing cases that are unlikely to succeed, or may not be providing adequate support during the plan period.
-
-Chapter 7 dismissals are rare -- and meaningful
-
-Chapter 7 cases rarely get dismissed (national average: 2.1%). When they are, it is typically for failure to file required documents, failure to pay filing fees, or abuse of the bankruptcy system. An attorney with a high Chapter 7 dismissal rate relative to the district average is a serious red flag.
-
-What the pro se rate tells you
-
-The pro se (self-represented) filing rate indicates what percentage of bankruptcy filings in a district are made without an attorney. A high pro se rate can signal:
-
-Attorney desert: Affordable bankruptcy representation may be scarce in the area
-
-Fee concerns: Attorneys in the district may be charging fees that many debtors cannot afford
-
-Access to justice issues: Legal aid and pro bono resources may be limited
-
-Pro se Chapter 13 cases have extremely high dismissal rates because the repayment plan process requires technical legal knowledge. If you are in a high pro se district, finding an affordable attorney is especially important.
-
-Limitations of this data
-
-Important: This tool shows district-level benchmarks, not individual attorney performance. An attorney's personal dismissal rate may differ substantially from the district average. These benchmarks give you a baseline for comparison -- not a verdict on any specific attorney.
-
-Data is sourced from the Federal Judicial Center's Integrated Database, covering cases filed through 2024. Not all districts have equal coverage in our database. Districts with fewer than 50 tracked cases may show less reliable percentages.
-
-Frequently Asked Questions
-
-What is a normal Chapter 13 dismissal rate?
-
-Nationally, about 46.6% of Chapter 13 cases with a recorded disposition are dismissed. However, this varies dramatically by district -- from under 20% to over 60%. A dismissal rate significantly above your district's average may indicate a quality concern.
-
-What does a high pro se filing rate mean?
-
-A high pro se (self-represented) filing rate in a district can indicate an "attorney desert" -- a region where affordable bankruptcy representation is scarce. In such districts, it becomes even more important to carefully evaluate any attorney you do find.
-
-How can I check my bankruptcy attorney's dismissal rate?
-
-You can search PACER (Public Access to Court Electronic Records) for your attorney's name and review their case outcomes. Look at the ratio of dismissed cases to discharged cases. Compare that ratio to your district's average shown in this tool. For a detailed how-to, see our research guide.
-
-What is the difference between dismissal and discharge?
-
-A discharge is the successful outcome -- your eligible debts are eliminated. A dismissal means the case was terminated without completing the process. Common reasons include failure to make plan payments, failure to file required documents, or abuse of the bankruptcy system. You paid for legal help but did not get the relief you sought.
-
-Related Topics
-
-Dismissal Rate Statistics
-1328(f) Discharge Screener
-Affordable Legal Help
-Filing Without a Lawyer
-Chapter 7 vs Chapter 13
-How Much Does It Cost?
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Check Your District
-Red Flags
-Questions to Ask
-How to Research
-What to Expect
-Online Reviews
-Fee Structures
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+No ads. No affiliate links. No data sold. Supported by donations.

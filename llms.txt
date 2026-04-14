@@ -5,14 +5,15 @@
 bankruptcyattorneyratings.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- How to Evaluate Bankruptcy Attorney Reviews: https://bankruptcyattorneyratings.org/
-- Red Flags When Choosing a Bankruptcy Attorney: https://bankruptcyattorneyratings.org/red-flags.html
-- Questions to Ask a Bankruptcy Attorney Before Hiring: https://bankruptcyattorneyratings.org/questions-to-ask.html
-- How to Research a Bankruptcy Attorney: https://bankruptcyattorneyratings.org/how-to-research.html
-- What to Expect from Your Bankruptcy Attorney: https://bankruptcyattorneyratings.org/what-to-expect.html
-- Understanding Online Bankruptcy Attorney Reviews: https://bankruptcyattorneyratings.org/online-reviews.html
-- Bankruptcy Attorney Fee Structures: https://bankruptcyattorneyratings.org/fee-structures.html
 - Check Your District: Bankruptcy Attorney Quality Benchmarks by Federal District: https://bankruptcyattorneyratings.org/check-your-district.html
+- Bankruptcy Attorney Fee Structures: https://bankruptcyattorneyratings.org/fee-structures.html
+- How to Research a Bankruptcy Attorney: https://bankruptcyattorneyratings.org/how-to-research.html
+- How to Evaluate Bankruptcy Attorney Reviews: https://bankruptcyattorneyratings.org/
+- Understanding Online Bankruptcy Attorney Reviews: https://bankruptcyattorneyratings.org/online-reviews.html
+- Questions to Ask a Bankruptcy Attorney Before Hiring: https://bankruptcyattorneyratings.org/questions-to-ask.html
+- Red Flags When Choosing a Bankruptcy Attorney: https://bankruptcyattorneyratings.org/red-flags.html
+- What to Expect from Your Bankruptcy Attorney: https://bankruptcyattorneyratings.org/what-to-expect.html
+- Privacy Policy: https://bankruptcyattorneyratings.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
